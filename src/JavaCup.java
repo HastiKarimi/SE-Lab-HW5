@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class JavaCup {
     static int max_i = 10000;
-    static int max_j = 2000;
-
+    static int max_j = 20000;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
